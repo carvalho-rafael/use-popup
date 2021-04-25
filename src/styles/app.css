@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.button-wrapper {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  color: #fff;
+  background-color: #d62828;
+  padding: 1rem;
+  cursor: pointer;
+  margin: .5rem;
+}
+
+button:last-child {
+  background: #2a9d8f;
+}
