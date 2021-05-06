@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import './popup.css'
+import './index.scss';
 
 export type PopupProps = {
     title: string,
