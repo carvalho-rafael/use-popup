@@ -2,7 +2,7 @@
   "name": "use-popup",
   "author": "Rafael Carvalho <rafaelvfcarvalho@gmail.com>",
   "description": "React Popup Component with Hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "files": [
     "dist"
